@@ -5,7 +5,8 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2026-03-12
-venue: 'Journal 1'
+venue: 'Nano Letters
+'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf](https://pubs.acs.org/nalefd/article/26/19/6243/5148097/Electrical-Control-of-Single-Photon-Emitters-in)'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
