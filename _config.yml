@@ -24,11 +24,11 @@ repository               : "satyabratbehera/satyabratbehera.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Satyabrat Behera"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. in Physics | 2D Materials | Quantum Emitters | SERS | Nanophotonics"
+  location         : "Ulsan, South Korea"
+  employer         : "Ulsan National Institute of Science and Technology (UNIST)"
   uri              : # URL
   email            : "satyabratbbs@gmail.com" 
 
