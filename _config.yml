@@ -23,7 +23,7 @@ repository               : "satyabratbehera/satyabratbehera.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png.jpg"
+  avatar           : "profile.png"
   name             : "Satyabrat Behera"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Physics | 2D Materials | Quantum Emitters | SERS | Nanophotonics"
