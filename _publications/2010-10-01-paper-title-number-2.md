@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Active Surface-Enhanced Raman Scattering Platform Based on a 2D Material–Flexible Nanotip Array"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+date: 2024-12-15
+venue: 'Biosensors 2024'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Two-dimensional materials with a nanostructure have been introduced as promising candidates for SERS platforms for sensing application. However, the dynamic control and tuning of SERS remains a long-standing problem. Here, we demonstrated active tuning of the enhancement factor of the first- and second-order Raman mode of monolayer (1L) MoS2 transferred onto a flexible metallic nanotip array. Using mechanical strain, the enhancement factor of 1L MoS2/nanotip is modulated from 1.23 to 8.72 for 2LA mode. For the same mode, the SERS intensity is enhanced by ~31 times when silver nanoparticles of ~13 nm diameter are deposited on 1L MoS2/nanotip, which is tuned up to ~34 times by compressive strain. The change in SERS enhancement factor is due to the decrease (increase) in gap width as the sample is bent inwardly (outwardly). This is corroborated by FEM structural and electromagnetic simulation. We also observed significant control over mode peak and linewidth, which may have applications in biosensing, chemical detection, and optoelectronics.
