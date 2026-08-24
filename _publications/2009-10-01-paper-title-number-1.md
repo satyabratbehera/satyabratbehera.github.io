@@ -3,7 +3,7 @@ title: "Electrical Control of Single Photon Emitters in WSe2 on a Si Nanopyramid
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2026-03-12
 venue: 'Nano Letters
 '
