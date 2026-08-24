@@ -7,7 +7,7 @@ excerpt: ''
 date: 2026-03-12
 venue: 'Nano Letters
 '
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+
 paperurl: 'https://academicpages.github.io/files/paper1.pdf](https://pubs.acs.org/nalefd/article/26/19/6243/5148097/Electrical-Control-of-Single-Photon-Emitters-in)'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Satyabrat Behera, Jong Sung Moon, Kirlie Iulius Figuera Michal, Jaesung Heo, Jaehyun Lee, Joon-Mo Yang, Je-Hyung Kim, Seon Namgung; Electrical Control of Single Photon Emitters in WSe2 on a Si Nanopyramid Array with a Negligible Stark Effect. Nano Lett. 20 May 2026; 26 (19): 6243–6250.'
