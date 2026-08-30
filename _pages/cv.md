@@ -18,7 +18,7 @@ Work experience
 ======
 * September 2026-Present Postdoctoral Research Associate
   * UNIST, South Korea
-  * Project: Decoupling classical and quantum Nonlinear optical response via Electrostatic gating in Layered NbOCl2
+  * Project: Decoupling classical and quantum Nonlinear optical response via Electrostatic gating in Layered NbOCl<sub>2</sub>
   
 Skills
 ======
