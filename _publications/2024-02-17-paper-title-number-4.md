@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "Large-Area Nanogap Platforms for Surface-Enhanced Raman Spectroscopy Toward Sensing Applications: Comparison Between Ag and Au"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
