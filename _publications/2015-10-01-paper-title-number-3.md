@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 
 date: 2026-05-08
-venue: 'Science Advances'
+venue: '<b>Science Advances</b>'
 
 paperurl: 'https://www.science.org/doi/full/10.1126/sciadv.aed4575'
 citation: 'Sobhagyam Sharma, <b>Satyabrat Behera</b>, Byung Hee Son, Gangseon Ji, Daehwan Park, Arunkumar Alagurasu, Mahsa H. Moghaddam, Dai-Sik Kim, Seon Namgung, Yeong Hwan Ahn, Hyeong-Ryeol Park*.Reconfigurable second-harmonic generation via plasmonic nanoslits counteracting strain-induced suppression in monolayer MoS2.”, Sci. Adv. 2026, 12, eaed4575'
