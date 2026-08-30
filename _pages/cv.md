@@ -22,14 +22,13 @@ Work experience
   
 Skills
 ======
-* 2D material exfoliation using PDMS and gold-assisted exfoliation (GAE) technique, followed by deterministic transfer
 * Cleanroom-based nanodevice fabrication
   * Electron-beam lithography and photolithography
   * Thin-film dielectric deposition by atomic layer deposition (ALD)
   * Wet and dry dielectric etching processes
   * Metal deposition using electron beam evaporation
 * Electrical characterization of 2D material-based devices using gate-dependent measurements
-* Data Analysis and Programming
+* 2D material exfoliation using PDMS and gold-assisted exfoliation (GAE) technique, followed by deterministic transfer
 * Optical Characterization and Spectroscopy   
   * Photoluminescence and Raman spectroscopy
   * Second-harmonic generation
