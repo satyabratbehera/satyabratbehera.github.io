@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 
-date: 2056-06-05
+date: 2025-06-05
 venue: 'Biosensors'
 
 paperurl: 'https://www.mdpi.com/2079-6374/15/6/369'
