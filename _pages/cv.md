@@ -22,12 +22,21 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2D material exfoliation using PDMS and gold-assisted exfoliation (GAE) technique, followed by deterministic transfer
+* Cleanroom-based nanodevice fabrication
+  * Electron-beam lithography and photolithography
+  * Thin-film dielectric deposition by atomic layer deposition (ALD)
+  * Wet and dry dielectric etching processes
+  * Metal deposition using electron beam evaporation
+* Electrical characterization of 2D material-based devices using gate-dependent measurements
+* Data Analysis and Programming
+* Optical Characterization and Spectroscopy   
+  * Photoluminescence and Raman spectroscopy
+  * Second-harmonic generation
+  * Second order correlation measurement
+* Data Analysis and Programming 
+  *	COMSOL Multiphysics 6.1
+  * MATLAB, LabVIEW, and OriginPro
 
 Publications
 ======
