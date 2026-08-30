@@ -7,7 +7,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 date: 2056-06-05
 venue: 'Biosensors'
 
-paperurl: 'https://www.science.org/doi/full/10.1126/sciadv.aed4575'
+paperurl: 'https://www.mdpi.com/2079-6374/15/6/369'
 citation: 'Alagurasu, A.; <b>Behera, S</b>.; Yang, J.-M.; Kim, D.-S.; Namgung, S. Large-Area Nanogap Platforms for Surface-Enhanced Raman Spectroscopy Toward Sensing Applications: Comparison Between Ag and Au. Biosensors 2025, 15, 369. https://doi.org/10.3390/bios15060369'
 ---
 
