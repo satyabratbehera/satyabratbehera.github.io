@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2024-12-15
-venue: 'Biosensors'
+venue: '<b>Biosensors</b>'
 paperurl: 'https://academicpages.github.io/files/paper2.pdf](https://www.mdpi.com/2079-6374/14/12/619)'
 citation: 'Kim, Y.B.*; <b>Behera, S.</b>*; Lee, D.; Namgung, S.; Park, K.-D.; Kim, D.-S.; Das, B. Active Surface-Enhanced Raman Scattering Platform Based on a 2D Material–Flexible Nanotip Array. Biosensors 2024, 14, 619.'
 ---
