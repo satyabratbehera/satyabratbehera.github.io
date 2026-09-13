@@ -1,15 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Department OF Physics, UNIST"
+date: 2021-03-01 - 2025-06-31
+location: "Ulsan,  South Korea"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
+Involved in teaching and grading ‘General Physics Laboratory’ courses to the undergraduate freshman students, UNIST.
 Heading 1
 ======
 
