@@ -8,7 +8,7 @@ date: 2021-03-01 - 2025-06-31
 location: "Ulsan,  South Korea"
 ---
 
-Involved in teaching and grading ‘General Physics Laboratory’ courses to the undergraduate freshman students, UNIST.
+Involved in teaching and grading ‘General Physics Laboratory’ courses to the undergraduate freshman students.
 
 
 Heading 1
